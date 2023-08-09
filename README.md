@@ -214,9 +214,6 @@
   <thead>
     <tr>
       <th>Channels</th>
-      <th>Channels</th>
-      <th>Channels</th>
-      <th>Channels</th>
     </tr>
   </thead>
  </tbody>

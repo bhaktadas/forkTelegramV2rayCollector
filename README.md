@@ -1,13 +1,9 @@
-<h1 id="Telagram Channel" align="center">channel Telegram</h1>
-<p align="center">
+
   <a href="https://t.me/fnet00">
-    <img src="https://img.shields.io/badge/Telegram_Bot-@v2raycollectorbot-darkblue?style=flat&logo=telegram" alt="Telegram Channel">
-  </a>
-  <a href="https://scrutinizer-ci.com/g/amirmohammad-mohammad-88/TelegramV2rayCollector/?branch=main">
     <img src="https://img.shields.io/scrutinizer/quality/g/amirmohammad-mohammad-88/TelegramV2rayCollector?style=flat&logo=scrutinizerci" alt="Scrutinizer Code Quality">
   </a>
 </p>
-<p align="center">
+<p align="center" href="https://t.me/fnet00" >
   <img src="https://img.shields.io/github/languages/top/amirmohammad-mohammad-88/TelegramV2rayCollector?color=5D6D7E" alt="Github Top Language">
   <img src="https://img.shields.io/github/license/amirmohammad-mohammad-88/TelegramV2rayCollector?color=5D6D7E" alt="GitHub license">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/amirmohammad-mohammad-88/TelegramV2rayCollector">

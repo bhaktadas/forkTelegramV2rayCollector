@@ -1,4 +1,4 @@
-<h1 id="v2ray-collector" align="center">channel Telegram</h1>
+<h1 id="Telagram Channel" align="center">channel Telegram</h1>
 <p align="center">
   <a href="https://t.me/fnet00">
     <img src="https://img.shields.io/badge/Telegram_Bot-@v2raycollectorbot-darkblue?style=flat&logo=telegram" alt="Telegram Channel">

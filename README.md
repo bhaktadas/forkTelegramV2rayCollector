@@ -1,5 +1,5 @@
 
-  <a align="center" style=" margin:600px;" href="https://t.me/fnet00">
+  <a align="center" style=" direction:rtl;" href="https://t.me/fnet00">
     <img src="https://img.shields.io/scrutinizer/quality/g/amirmohammad-mohammad-88/TelegramV2rayCollector?style=flat&logo=scrutinizerci" alt="Scrutinizer Code Quality">
   </a>
 </p>

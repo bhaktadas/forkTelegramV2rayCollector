@@ -1,13 +1,7 @@
 <h1 id="v2ray-collector" align="center">channel Telegram</h1>
 <p align="center">
   <a href="https://t.me/fnet00">
-    <img src="https://img.shields.io/badge/Telegram_Bot-@v2raycollectorbot-darkblue?style=flat&logo=telegram" alt="Telegram Bot">
-  </a>
-  <a href="https://scrutinizer-ci.com/g/amirmohammad-mohammad-88/TelegramV2rayCollector/build-status/main">
-    <img src="https://scrutinizer-ci.com/g/amirmohammad-mohammad-88/TelegramV2rayCollector/badges/build.png?b=main" alt="Build Status">
-  </a>
-  <a href="https://scrutinizer-ci.com/code-intelligence">
-    <img src="https://scrutinizer-ci.com/g/amirmohammad-mohammad-88/TelegramV2rayCollector/badges/code-intelligence.svg?b=main" alt="Code Intelligence Status">
+    <img src="https://img.shields.io/badge/Telegram_Bot-@v2raycollectorbot-darkblue?style=flat&logo=telegram" alt="Telegram Channel">
   </a>
   <a href="https://scrutinizer-ci.com/g/amirmohammad-mohammad-88/TelegramV2rayCollector/?branch=main">
     <img src="https://img.shields.io/scrutinizer/quality/g/amirmohammad-mohammad-88/TelegramV2rayCollector?style=flat&logo=scrutinizerci" alt="Scrutinizer Code Quality">

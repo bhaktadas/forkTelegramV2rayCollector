@@ -1,6 +1,6 @@
-<h1 id="v2ray-collector" align="center">V2ray Collector</h1>
+<h1 id="v2ray-collector" align="center">channel Telegram</h1>
 <p align="center">
-  <a href="https://t.me/v2raycollectorbot">
+  <a href="https://t.me/fnet00">
     <img src="https://img.shields.io/badge/Telegram_Bot-@v2raycollectorbot-darkblue?style=flat&logo=telegram" alt="Telegram Bot">
   </a>
   <a href="https://scrutinizer-ci.com/g/amirmohammad-mohammad-88/TelegramV2rayCollector/build-status/main">

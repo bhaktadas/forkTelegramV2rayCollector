@@ -247,7 +247,7 @@ function get_channels_assets()
     );
 }
 
-function generate_name( "@FNET00" , $flag, $ping, $is_reality, $number)
+function generate_name( $ping, $is_reality, $number)
 {
     $name = "";
     switch ($is_reality) {
@@ -260,7 +260,7 @@ function generate_name( "@FNET00" , $flag, $ping, $is_reality, $number)
                 "ms | " . numberToEmoji($number);
             break;
         case false:
-            $name = "@FNET00" . " | " . $ping . "ms | " . numberToEmoji($number);
+            $name = "@FNET00" .  " | " . $ping . "ms | " . numberToEmoji($number);
             break;
     }
     return $name;
@@ -308,7 +308,7 @@ function build_config($input, $type)
     return $build_config;
 }
 
-function get_config("@FNET00", $type)
+function get_config( $type)
 {
     $name_array = [
         "vmess" => "ps",
@@ -352,7 +352,6 @@ function get_config("@FNET00", $type)
                         
                         $name_key = $name_array[$type];
                         $the_config[$name_key] = generate_name(
-                            $flag,
                             $ping_data,
                             $is_reality,
                             $config_number
@@ -399,7 +398,7 @@ function detect_type($input)
     return $type;
 }
 
-function process_subscription($input, $channel)
+function process_subscription($input)
 {
     $name_array = [
         "vmess" => "ps",
@@ -433,7 +432,6 @@ function process_subscription($input, $channel)
 
                 $name_key = $name_array[$type];
                 $the_config[$name_key] = generate_name(
-                    $flag,
                     $ping_data,
                     $is_reality,
                     $config_number
